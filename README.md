@@ -1,1 +1,1 @@
-[INDEX](docs/index.html)
+[INDEX](docs)
